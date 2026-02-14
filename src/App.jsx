@@ -92,12 +92,12 @@ function App() {
             </div>
 
             <div className="project-card">
-              <h3>Blog Summariser</h3>
+              <h3>Food Express</h3>
               <p>
-                A tool that scrapes blogs, generates summaries, and
-                translates them into Urdu with storage in Supabase & MongoDB.
+                Food Express lets users order food directly through WhatsApp
+                with one click, making the process quick and simple.
               </p>
-              <a href='https://nexium-laiba-aslam-internship.vercel.app/'>
+              <a href='https://foodexpress-td2v-7w0mscmwz-laiba-aslams-projects-82178a37.vercel.app '>
               <button className="project-btn">Learn More</button>
               </a>
             </div>
@@ -108,7 +108,8 @@ function App() {
         <h1>Skills</h1>
         <ul>
           <li>HTML & CSS</li>
-          <li>figma</li>          
+          <li>figma</li> 
+          <li>Tailwind</li>         
           <li>JavaScript</li>
           <li>React</li>
           <li>PHP</li>
